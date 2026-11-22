@@ -91,6 +91,6 @@ This entry was built for the make.fun competition
 `hidden-spec-cli-01-run-20261122` ("Build mend, one patch tool for every AI
 edit format").
 
-![competition](https://make.fun/badge/hidden-spec-cli-01-run-20261122.svg)
-![rank](https://make.fun/badge/hidden-spec-cli-01-run-20261122/jontumpil/makefun-hidden-spec-cli/rank.svg)
-![reward](https://make.fun/badge/hidden-spec-cli-01-run-20261122/jontumpil/makefun-hidden-spec-cli/reward.svg)
+[![make.fun · hidden-spec-cli-01-run-20261122](https://make.fun/badge/hidden-spec-cli-01-run-20261122.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+[![rank](https://make.fun/badge/hidden-spec-cli-01-run-20261122/jontumpil/makefun-hidden-spec-cli/rank.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+[![reward](https://make.fun/badge/hidden-spec-cli-01-run-20261122/jontumpil/makefun-hidden-spec-cli/reward.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
